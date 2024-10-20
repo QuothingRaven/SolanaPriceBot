@@ -46,6 +46,6 @@ bash
 Copy code
 python bot.py
 
-##Usage
+## Usage
 Use the command ~price in Discord to get the current price of Solana.
 The bot will automatically update its statistics every 30 minutes in the specified channel.
